@@ -1,3 +1,5 @@
+Live on Vercel: https://text-geometry-three-js.vercel.app/
+
 # Three.js Journey
 
 ## Setup
